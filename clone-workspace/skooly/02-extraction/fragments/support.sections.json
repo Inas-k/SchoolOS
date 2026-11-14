@@ -1,0 +1,112 @@
+[
+  {
+    "tag": "header",
+    "id": "",
+    "cls": "sticky top-0 z-50 bg-white/95 backdrop-blur-sm border-b transition-[border-color,box-shadow] duration-300 border-transpa",
+    "y": 0,
+    "h": 73,
+    "w": 1920,
+    "bg": "oklab(0.999994 0.0000455678 0.0000200868 / 0.95)",
+    "bgImg": "none",
+    "pos": "sticky"
+  },
+  {
+    "tag": "nav",
+    "id": "",
+    "cls": "hidden lg:flex items-center gap-1",
+    "y": 18,
+    "h": 36,
+    "w": 601,
+    "bg": "rgba(0, 0, 0, 0)",
+    "bgImg": "none",
+    "pos": "static"
+  },
+  {
+    "tag": "section",
+    "id": "",
+    "cls": "bg-white",
+    "y": 73,
+    "h": 323,
+    "w": 1920,
+    "bg": "rgb(255, 255, 255)",
+    "bgImg": "none",
+    "pos": "static"
+  },
+  {
+    "tag": "section",
+    "id": "",
+    "cls": "relative overflow-clip bg-gray-50  py-12",
+    "y": 396,
+    "h": 326,
+    "w": 1920,
+    "bg": "rgb(252, 246, 243)",
+    "bgImg": "none",
+    "pos": "relative"
+  },
+  {
+    "tag": "section",
+    "id": "",
+    "cls": "relative overflow-clip bg-white py-20 lg:py-28 ",
+    "y": 722,
+    "h": 806,
+    "w": 1920,
+    "bg": "rgb(255, 255, 255)",
+    "bgImg": "none",
+    "pos": "relative"
+  },
+  {
+    "tag": "section",
+    "id": "",
+    "cls": "relative overflow-clip bg-gray-50 py-20 lg:py-28 ",
+    "y": 1529,
+    "h": 642,
+    "w": 1920,
+    "bg": "rgb(252, 246, 243)",
+    "bgImg": "none",
+    "pos": "relative"
+  },
+  {
+    "tag": "section",
+    "id": "",
+    "cls": "relative overflow-clip bg-white py-20 lg:py-28 ",
+    "y": 2170,
+    "h": 1103,
+    "w": 1920,
+    "bg": "rgb(255, 255, 255)",
+    "bgImg": "none",
+    "pos": "relative"
+  },
+  {
+    "tag": "script",
+    "id": "",
+    "cls": "",
+    "y": 0,
+    "h": 0,
+    "w": 0,
+    "bg": "rgba(0, 0, 0, 0)",
+    "bgImg": "none",
+    "pos": "static"
+  },
+  {
+    "tag": "section",
+    "id": "",
+    "cls": "relative overflow-clip bg-gray-50 py-20 lg:py-28 ",
+    "y": 3273,
+    "h": 927,
+    "w": 1920,
+    "bg": "rgb(252, 246, 243)",
+    "bgImg": "none",
+    "pos": "relative"
+  },
+  {
+    "tag": "footer",
+    "id": "",
+    "cls": "bg-ink text-gray-300",
+    "y": 4200,
+    "h": 1074,
+    "w": 1920,
+    "bg": "rgb(14, 28, 48)",
+    "bgImg": "none",
+    "pos": "static"
+  }
+]

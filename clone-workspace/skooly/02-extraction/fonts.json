@@ -1,0 +1,264 @@
+{
+  "fontFaces": [
+    {
+      "family": "\"Plus Jakarta Sans\"",
+      "weight": "200 800",
+      "style": "normal",
+      "range": "U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F",
+      "src": "url(\"../media/0b1dc8ddaa74ba49-s.0e__wj8580tc5.woff2\") format(\"woff2\")"
+    },
+    {
+      "family": "\"Plus Jakarta Sans\"",
+      "weight": "200 800",
+      "style": "normal",
+      "range": "U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+3",
+      "src": "url(\"../media/e629b5bc06499d58-s.10u7vx61f1ie7.woff2\") format(\"woff2\")"
+    },
+    {
+      "family": "\"Plus Jakarta Sans\"",
+      "weight": "200 800",
+      "style": "normal",
+      "range": "U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D",
+      "src": "url(\"../media/1a099d89ee94ee96-s.35a5cae5tspm2.woff2\") format(\"woff2\")"
+    },
+    {
+      "family": "\"Plus Jakarta Sans\"",
+      "weight": "200 800",
+      "style": "normal",
+      "range": "U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U",
+      "src": "url(\"../media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2\") format(\"woff2\")"
+    },
+    {
+      "family": "\"Plus Jakarta Sans Fallback\"",
+      "weight": "",
+      "style": "",
+      "range": "",
+      "src": "local(\"Arial\")"
+    },
+    {
+      "family": "Figtree",
+      "weight": "300 900",
+      "style": "normal",
+      "range": "U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D",
+      "src": "url(\"../media/400bf8aa837fcb7e-s.19g-lkcx7iw64.woff2\") format(\"woff2\")"
+    },
+    {
+      "family": "Figtree",
+      "weight": "300 900",
+      "style": "normal",
+      "range": "U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U",
+      "src": "url(\"../media/f7aa21714c1c53f8-s.p.0-95eo-012xnf.woff2\") format(\"woff2\")"
+    },
+    {
+      "family": "\"Figtree Fallback\"",
+      "weight": "",
+      "style": "",
+      "range": "",
+      "src": "local(\"Arial\")"
+    },
+    {
+      "family": "\"Noto Sans Arabic\"",
+      "weight": "400",
+      "style": "normal",
+      "range": "U+600-6FF, U+750-77F, U+870-891, U+897-8E1, U+8E3-8FF, U+200C-200E, U+2010-2011,",
+      "src": "url(\"../media/3fd1b3eda9c5392f-s.p.28efgb-r-zxeb.woff2\") format(\"woff2\")"
+    },
+    {
+      "family": "\"Noto Sans Arabic\"",
+      "weight": "400",
+      "style": "normal",
+      "range": "U+302-303, U+305, U+307-308, U+310, U+312, U+315, U+31A, U+326-327, U+32C, U+32F",
+      "src": "url(\"../media/0bcb14a778645c1f-s.2b-te65jr20ze.woff2\") format(\"woff2\")"
+    },
+    {
+      "family": "\"Noto Sans Arabic\"",
+      "weight": "400",
+      "style": "normal",
+      "range": "U+1-C, U+E-1F, U+7F-9F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U",
+      "src": "url(\"../media/cacc9745706895a8-s.0rnkw_r7blil4.woff2\") format(\"woff2\")"
+    },
+    {
+      "family": "\"Noto Sans Arabic\"",
+      "weight": "400",
+      "style": "normal",
+      "range": "U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D",
+      "src": "url(\"../media/6ae070eaf7847c89-s.2nm9jjiohqph7.woff2\") format(\"woff2\")"
+    },
+    {
+      "family": "\"Noto Sans Arabic\"",
+      "weight": "400",
+      "style": "normal",
+      "range": "U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U",
+      "src": "url(\"../media/14a9d8930cac1a04-s.0uri4t8jwwgpt.woff2\") format(\"woff2\")"
+    },
+    {
+      "family": "\"Noto Sans Arabic\"",
+      "weight": "500",
+      "style": "normal",
+      "range": "U+600-6FF, U+750-77F, U+870-891, U+897-8E1, U+8E3-8FF, U+200C-200E, U+2010-2011,",
+      "src": "url(\"../media/3fd1b3eda9c5392f-s.p.28efgb-r-zxeb.woff2\") format(\"woff2\")"
+    },
+    {
+      "family": "\"Noto Sans Arabic\"",
+      "weight": "500",
+      "style": "normal",
+      "range": "U+302-303, U+305, U+307-308, U+310, U+312, U+315, U+31A, U+326-327, U+32C, U+32F",
+      "src": "url(\"../media/0bcb14a778645c1f-s.2b-te65jr20ze.woff2\") format(\"woff2\")"
+    },
+    {
+      "family": "\"Noto Sans Arabic\"",
+      "weight": "500",
+      "style": "normal",
+      "range": "U+1-C, U+E-1F, U+7F-9F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U",
+      "src": "url(\"../media/cacc9745706895a8-s.0rnkw_r7blil4.woff2\") format(\"woff2\")"
+    },
+    {
+      "family": "\"Noto Sans Arabic\"",
+      "weight": "500",
+      "style": "normal",
+      "range": "U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D",
+      "src": "url(\"../media/6ae070eaf7847c89-s.2nm9jjiohqph7.woff2\") format(\"woff2\")"
+    },
+    {
+      "family": "\"Noto Sans Arabic\"",
+      "weight": "500",
+      "style": "normal",
+      "range": "U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U",
+      "src": "url(\"../media/14a9d8930cac1a04-s.0uri4t8jwwgpt.woff2\") format(\"woff2\")"
+    },
+    {
+      "family": "\"Noto Sans Arabic\"",
+      "weight": "600",
+      "style": "normal",
+      "range": "U+600-6FF, U+750-77F, U+870-891, U+897-8E1, U+8E3-8FF, U+200C-200E, U+2010-2011,",
+      "src": "url(\"../media/3fd1b3eda9c5392f-s.p.28efgb-r-zxeb.woff2\") format(\"woff2\")"
+    },
+    {
+      "family": "\"Noto Sans Arabic\"",
+      "weight": "600",
+      "style": "normal",
+      "range": "U+302-303, U+305, U+307-308, U+310, U+312, U+315, U+31A, U+326-327, U+32C, U+32F",
+      "src": "url(\"../media/0bcb14a778645c1f-s.2b-te65jr20ze.woff2\") format(\"woff2\")"
+    },
+    {
+      "family": "\"Noto Sans Arabic\"",
+      "weight": "600",
+      "style": "normal",
+      "range": "U+1-C, U+E-1F, U+7F-9F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U",
+      "src": "url(\"../media/cacc9745706895a8-s.0rnkw_r7blil4.woff2\") format(\"woff2\")"
+    },
+    {
+      "family": "\"Noto Sans Arabic\"",
+      "weight": "600",
+      "style": "normal",
+      "range": "U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D",
+      "src": "url(\"../media/6ae070eaf7847c89-s.2nm9jjiohqph7.woff2\") format(\"woff2\")"
+    },
+    {
+      "family": "\"Noto Sans Arabic\"",
+      "weight": "600",
+      "style": "normal",
+      "range": "U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U",
+      "src": "url(\"../media/14a9d8930cac1a04-s.0uri4t8jwwgpt.woff2\") format(\"woff2\")"
+    },
+    {
+      "family": "\"Noto Sans Arabic\"",
+      "weight": "700",
+      "style": "normal",
+      "range": "U+600-6FF, U+750-77F, U+870-891, U+897-8E1, U+8E3-8FF, U+200C-200E, U+2010-2011,",
+      "src": "url(\"../media/3fd1b3eda9c5392f-s.p.28efgb-r-zxeb.woff2\") format(\"woff2\")"
+    },
+    {
+      "family": "\"Noto Sans Arabic\"",
+      "weight": "700",
+      "style": "normal",
+      "range": "U+302-303, U+305, U+307-308, U+310, U+312, U+315, U+31A, U+326-327, U+32C, U+32F",
+      "src": "url(\"../media/0bcb14a778645c1f-s.2b-te65jr20ze.woff2\") format(\"woff2\")"
+    },
+    {
+      "family": "\"Noto Sans Arabic\"",
+      "weight": "700",
+      "style": "normal",
+      "range": "U+1-C, U+E-1F, U+7F-9F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U",
+      "src": "url(\"../media/cacc9745706895a8-s.0rnkw_r7blil4.woff2\") format(\"woff2\")"
+    },
+    {
+      "family": "\"Noto Sans Arabic\"",
+      "weight": "700",
+      "style": "normal",
+      "range": "U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D",
+      "src": "url(\"../media/6ae070eaf7847c89-s.2nm9jjiohqph7.woff2\") format(\"woff2\")"
+    },
+    {
+      "family": "\"Noto Sans Arabic\"",
+      "weight": "700",
+      "style": "normal",
+      "range": "U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U",
+      "src": "url(\"../media/14a9d8930cac1a04-s.0uri4t8jwwgpt.woff2\") format(\"woff2\")"
+    },
+    {
+      "family": "\"Noto Sans Arabic\"",
+      "weight": "800",
+      "style": "normal",
+      "range": "U+600-6FF, U+750-77F, U+870-891, U+897-8E1, U+8E3-8FF, U+200C-200E, U+2010-2011,",
+      "src": "url(\"../media/3fd1b3eda9c5392f-s.p.28efgb-r-zxeb.woff2\") format(\"woff2\")"
+    },
+    {
+      "family": "\"Noto Sans Arabic\"",
+      "weight": "800",
+      "style": "normal",
+      "range": "U+302-303, U+305, U+307-308, U+310, U+312, U+315, U+31A, U+326-327, U+32C, U+32F",
+      "src": "url(\"../media/0bcb14a778645c1f-s.2b-te65jr20ze.woff2\") format(\"woff2\")"
+    },
+    {
+      "family": "\"Noto Sans Arabic\"",
+      "weight": "800",
+      "style": "normal",
+      "range": "U+1-C, U+E-1F, U+7F-9F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U",
+      "src": "url(\"../media/cacc9745706895a8-s.0rnkw_r7blil4.woff2\") format(\"woff2\")"
+    },
+    {
+      "family": "\"Noto Sans Arabic\"",
+      "weight": "800",
+      "style": "normal",
+      "range": "U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D",
+      "src": "url(\"../media/6ae070eaf7847c89-s.2nm9jjiohqph7.woff2\") format(\"woff2\")"
+    },
+    {
+      "family": "\"Noto Sans Arabic\"",
+      "weight": "800",
+      "style": "normal",
+      "range": "U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U",
+      "src": "url(\"../media/14a9d8930cac1a04-s.0uri4t8jwwgpt.woff2\") format(\"woff2\")"
+    },
+    {
+      "family": "\"Noto Sans Arabic Fallback\"",
+      "weight": "",
+      "style": "",
+      "range": "",
+      "src": "local(\"Arial\")"
+    }
+  ],
+  "loaded": [
+    {
+      "family": "Plus Jakarta Sans",
+      "weight": "200 800",
+      "style": "normal"
+    },
+    {
+      "family": "Plus Jakarta Sans Fallback",
+      "weight": "normal",
+      "style": "normal"
+    },
+    {
+      "family": "Figtree",
+      "weight": "300 900",
+      "style": "normal"
+    },
+    {
+      "family": "Figtree Fallback",
+      "weight": "normal",
+      "style": "normal"
+    }
+  ]
+}

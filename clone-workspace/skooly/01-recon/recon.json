@@ -1,0 +1,224 @@
+{
+  "themes": [
+    "light"
+  ],
+  "routes": {
+    "home--desktop": {
+      "title": "Skooly — Management Software for Academies & Preschools",
+      "height": 7857,
+      "sections": 11,
+      "canvas": 0,
+      "video": 0,
+      "anims": 35
+    },
+    "academy--desktop": {
+      "title": "Skooly Academy — Run Your Academy with an AI Copilot | Skooly",
+      "height": 6414,
+      "sections": 8,
+      "canvas": 0,
+      "video": 0,
+      "anims": 42
+    },
+    "preschool--desktop": {
+      "title": "Skooly Preschool — Run Your Preschool with an AI Copilot | Skooly",
+      "height": 6942,
+      "sections": 9,
+      "canvas": 0,
+      "video": 0,
+      "anims": 37
+    },
+    "therapy-early-intervention--desktop": {
+      "title": "Therapy & Early Intervention Centre Software | Skooly",
+      "height": 7891,
+      "sections": 13,
+      "canvas": 0,
+      "video": 0,
+      "anims": 1
+    },
+    "demo--desktop": {
+      "title": "Schedule a Demo | Skooly",
+      "height": 2123,
+      "sections": 4,
+      "canvas": 0,
+      "video": 0,
+      "anims": 0
+    },
+    "support--desktop": {
+      "title": "Support | Skooly",
+      "height": 5274,
+      "sections": 10,
+      "canvas": 0,
+      "video": 0,
+      "anims": 0
+    },
+    "home--tablet": {
+      "title": "Skooly — Management Software for Academies & Preschools",
+      "height": 8119,
+      "sections": 11,
+      "canvas": 0,
+      "video": 0,
+      "anims": 35
+    },
+    "academy--tablet": {
+      "title": "Skooly Academy — Run Your Academy with an AI Copilot | Skooly",
+      "height": 7744,
+      "sections": 8,
+      "canvas": 0,
+      "video": 0,
+      "anims": 42
+    },
+    "preschool--tablet": {
+      "title": "Skooly Preschool — Run Your Preschool with an AI Copilot | Skooly",
+      "height": 8100,
+      "sections": 9,
+      "canvas": 0,
+      "video": 0,
+      "anims": 37
+    },
+    "therapy-early-intervention--tablet": {
+      "title": "Therapy & Early Intervention Centre Software | Skooly",
+      "height": 8739,
+      "sections": 13,
+      "canvas": 0,
+      "video": 0,
+      "anims": 1
+    },
+    "demo--tablet": {
+      "title": "Schedule a Demo | Skooly",
+      "height": 3012,
+      "sections": 4,
+      "canvas": 0,
+      "video": 0,
+      "anims": 0
+    },
+    "support--tablet": {
+      "title": "Support | Skooly",
+      "height": 5414,
+      "sections": 10,
+      "canvas": 0,
+      "video": 0,
+      "anims": 0
+    },
+    "home--mobile": {
+      "title": "Skooly — Management Software for Academies & Preschools",
+      "height": 12016,
+      "sections": 11,
+      "canvas": 0,
+      "video": 0,
+      "anims": 35
+    },
+    "academy--mobile": {
+      "title": "Skooly Academy — Run Your Academy with an AI Copilot | Skooly",
+      "height": 11440,
+      "sections": 8,
+      "canvas": 0,
+      "video": 0,
+      "anims": 42
+    },
+    "preschool--mobile": {
+      "title": "Skooly Preschool — Run Your Preschool with an AI Copilot | Skooly",
+      "height": 11737,
+      "sections": 9,
+      "canvas": 0,
+      "video": 0,
+      "anims": 37
+    },
+    "therapy-early-intervention--mobile": {
+      "title": "Therapy & Early Intervention Centre Software | Skooly",
+      "height": 12414,
+      "sections": 13,
+      "canvas": 0,
+      "video": 0,
+      "anims": 1
+    },
+    "demo--mobile": {
+      "title": "Schedule a Demo | Skooly",
+      "height": 4010,
+      "sections": 4,
+      "canvas": 0,
+      "video": 0,
+      "anims": 0
+    },
+    "support--mobile": {
+      "title": "Support | Skooly",
+      "height": 7340,
+      "sections": 10,
+      "canvas": 0,
+      "video": 0,
+      "anims": 0
+    }
+  },
+  "framework": {
+    "home": {
+      "next": true,
+      "lang": "en",
+      "dir": "ltr"
+    },
+    "academy": {
+      "next": true,
+      "lang": "en",
+      "dir": "ltr"
+    },
+    "preschool": {
+      "next": true,
+      "lang": "en",
+      "dir": "ltr"
+    },
+    "therapy-early-intervention": {
+      "next": true,
+      "lang": "en",
+      "dir": "ltr"
+    },
+    "demo": {
+      "next": true,
+      "lang": "en",
+      "dir": "ltr"
+    },
+    "support": {
+      "next": true,
+      "lang": "en",
+      "dir": "ltr"
+    }
+  },
+  "breakpoints": [],
+  "scroll": {
+    "home": {
+      "lenis": false,
+      "locomotive": false,
+      "gsap": false,
+      "framer": false
+    },
+    "academy": {
+      "lenis": false,
+      "locomotive": false,
+      "gsap": false,
+      "framer": false
+    },
+    "preschool": {
+      "lenis": false,
+      "locomotive": false,
+      "gsap": false,
+      "framer": false
+    },
+    "therapy-early-intervention": {
+      "lenis": false,
+      "locomotive": false,
+      "gsap": false,
+      "framer": false
+    },
+    "demo": {
+      "lenis": false,
+      "locomotive": false,
+      "gsap": false,
+      "framer": false
+    },
+    "support": {
+      "lenis": false,
+      "locomotive": false,
+      "gsap": false,
+      "framer": false
+    }
+  },
+  "animation": {},
+  "canvas": {}
+}

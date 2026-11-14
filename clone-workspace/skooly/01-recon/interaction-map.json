@@ -1,0 +1,56 @@
+{
+  "route": "/",
+  "interactions": [
+    {
+      "action_slug": "open-features-menu",
+      "trigger": "header nav button:Features",
+      "kind": "click",
+      "reveals": [
+        "dropdown panel"
+      ],
+      "screenshot": "01-recon/screenshots/interaction-states/home--open-features-menu.png",
+      "captured": true
+    },
+    {
+      "action_slug": "open-pricing-menu",
+      "trigger": "header nav button:Pricing",
+      "kind": "click",
+      "reveals": [
+        "dropdown panel"
+      ],
+      "screenshot": "01-recon/screenshots/interaction-states/home--open-pricing-menu.png",
+      "captured": true
+    },
+    {
+      "action_slug": "header-scrolled",
+      "trigger": "header",
+      "kind": "scroll",
+      "reveals": [
+        "border-color + shadow appear"
+      ],
+      "screenshot": "01-recon/screenshots/interaction-states/home--header-scrolled.png",
+      "captured": true
+    },
+    {
+      "action_slug": "hero-switch-preschool",
+      "trigger": "button[aria-label=Preschool]",
+      "kind": "click",
+      "reveals": [
+        "dashboard cards swap stack order"
+      ],
+      "screenshot": "01-recon/screenshots/interaction-states/home--hero-switch-preschool.png",
+      "captured": true
+    },
+    {
+      "action_slug": "mobile-menu-open",
+      "trigger": "button[aria-label=\"Toggle menu\"]",
+      "kind": "click",
+      "reveals": [
+        "mobile nav panel"
+      ],
+      "screenshot": "01-recon/screenshots/interaction-states/home--mobile-menu-open.png",
+      "captured": true
+    }
+  ],
+  "unreached": []
+}

@@ -1,0 +1,455 @@
+{
+ "n": 28,
+ "before": [
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal ",
+   "style": null,
+   "op": "0",
+   "tr": "none",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal ",
+   "style": null,
+   "op": "0",
+   "tr": "none",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal ",
+   "style": null,
+   "op": "0",
+   "tr": "none",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal ",
+   "style": null,
+   "op": "0",
+   "tr": "none",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal ",
+   "style": null,
+   "op": "0",
+   "tr": "none",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal ",
+   "style": null,
+   "op": "0",
+   "tr": "none",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal ",
+   "style": null,
+   "op": "0",
+   "tr": "none",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal ",
+   "style": null,
+   "op": "0",
+   "tr": "none",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal ",
+   "style": null,
+   "op": "0",
+   "tr": "none",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal ",
+   "style": null,
+   "op": "0",
+   "tr": "none",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal ",
+   "style": null,
+   "op": "0",
+   "tr": "none",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal ",
+   "style": null,
+   "op": "0",
+   "tr": "none",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal ",
+   "style": null,
+   "op": "0",
+   "tr": "none",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal ",
+   "style": null,
+   "op": "0",
+   "tr": "none",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal ",
+   "style": null,
+   "op": "0",
+   "tr": "none",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal ",
+   "style": null,
+   "op": "0",
+   "tr": "none",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal ",
+   "style": null,
+   "op": "0",
+   "tr": "none",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal ",
+   "style": null,
+   "op": "0",
+   "tr": "none",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal ",
+   "style": null,
+   "op": "0",
+   "tr": "none",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal ",
+   "style": null,
+   "op": "0",
+   "tr": "none",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal ",
+   "style": null,
+   "op": "0",
+   "tr": "none",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal ",
+   "style": null,
+   "op": "0",
+   "tr": "none",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal ",
+   "style": null,
+   "op": "0",
+   "tr": "none",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal ",
+   "style": null,
+   "op": "0",
+   "tr": "none",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal ",
+   "style": null,
+   "op": "0",
+   "tr": "none",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal ",
+   "style": null,
+   "op": "0",
+   "tr": "none",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal ",
+   "style": null,
+   "op": "0",
+   "tr": "none",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal ",
+   "style": null,
+   "op": "0",
+   "tr": "none",
+   "trans": "all"
+  }
+ ],
+ "after": [
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal is-visible animate-fade-up",
+   "style": null,
+   "op": "1",
+   "tr": "matrix(1, 0, 0, 1, 0, 0)",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal is-visible animate-fade-up",
+   "style": "animation-delay: 100ms;",
+   "op": "1",
+   "tr": "matrix(1, 0, 0, 1, 0, 0)",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal is-visible animate-fade-up",
+   "style": "animation-delay: 200ms;",
+   "op": "1",
+   "tr": "matrix(1, 0, 0, 1, 0, 0)",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal is-visible animate-fade-up",
+   "style": "animation-delay: 300ms;",
+   "op": "1",
+   "tr": "matrix(1, 0, 0, 1, 0, 0)",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal is-visible animate-fade-up",
+   "style": null,
+   "op": "1",
+   "tr": "matrix(1, 0, 0, 1, 0, 0)",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal is-visible animate-fade-up",
+   "style": "animation-delay: 100ms;",
+   "op": "1",
+   "tr": "matrix(1, 0, 0, 1, 0, 0)",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal is-visible animate-fade-up",
+   "style": "animation-delay: 200ms;",
+   "op": "1",
+   "tr": "matrix(1, 0, 0, 1, 0, 0)",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal is-visible animate-fade-up",
+   "style": "animation-delay: 300ms;",
+   "op": "1",
+   "tr": "matrix(1, 0, 0, 1, 0, 0)",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal is-visible animate-fade-up",
+   "style": null,
+   "op": "1",
+   "tr": "matrix(1, 0, 0, 1, 0, 0)",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal is-visible animate-fade-up",
+   "style": "animation-delay: 200ms;",
+   "op": "1",
+   "tr": "matrix(1, 0, 0, 1, 0, 0)",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal is-visible animate-fade-up",
+   "style": null,
+   "op": "1",
+   "tr": "matrix(1, 0, 0, 1, 0, 0)",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal is-visible animate-fade-up",
+   "style": null,
+   "op": "1",
+   "tr": "matrix(1, 0, 0, 1, 0, 0)",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal is-visible animate-fade-up",
+   "style": "animation-delay: 100ms;",
+   "op": "1",
+   "tr": "matrix(1, 0, 0, 1, 0, 0)",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal is-visible animate-fade-up",
+   "style": "animation-delay: 200ms;",
+   "op": "1",
+   "tr": "matrix(1, 0, 0, 1, 0, 0)",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal is-visible animate-fade-up",
+   "style": "animation-delay: 300ms;",
+   "op": "1",
+   "tr": "matrix(1, 0, 0, 1, 0, 0)",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal is-visible animate-fade-up",
+   "style": "animation-delay: 400ms;",
+   "op": "1",
+   "tr": "matrix(1, 0, 0, 1, 0, 0)",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal is-visible animate-fade-up",
+   "style": "animation-delay: 500ms;",
+   "op": "1",
+   "tr": "matrix(1, 0, 0, 1, 0, 0)",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal is-visible animate-fade-up",
+   "style": null,
+   "op": "1",
+   "tr": "matrix(1, 0, 0, 1, 0, 0)",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal is-visible animate-fade-up",
+   "style": null,
+   "op": "1",
+   "tr": "matrix(1, 0, 0, 1, 0, 0)",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal is-visible animate-fade-up",
+   "style": "animation-delay: 100ms;",
+   "op": "1",
+   "tr": "matrix(1, 0, 0, 1, 0, 0)",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal is-visible animate-fade-up",
+   "style": "animation-delay: 200ms;",
+   "op": "1",
+   "tr": "matrix(1, 0, 0, 1, 0, 0)",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal is-visible animate-fade-up",
+   "style": "animation-delay: 300ms;",
+   "op": "1",
+   "tr": "matrix(1, 0, 0, 1, 0, 0)",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal is-visible animate-fade-up",
+   "style": "animation-delay: 300ms;",
+   "op": "1",
+   "tr": "matrix(1, 0, 0, 1, 0, 0)",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal is-visible animate-fade-up",
+   "style": null,
+   "op": "1",
+   "tr": "matrix(1, 0, 0, 1, 0, 0)",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal is-visible animate-fade-up",
+   "style": null,
+   "op": "1",
+   "tr": "matrix(1, 0, 0, 1, 0, 0)",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal is-visible animate-fade-up",
+   "style": "animation-delay: 100ms;",
+   "op": "1",
+   "tr": "matrix(1, 0, 0, 1, 0, 0)",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal is-visible animate-fade-up",
+   "style": "animation-delay: 200ms;",
+   "op": "1",
+   "tr": "matrix(1, 0, 0, 1, 0, 0)",
+   "trans": "all"
+  },
+  {
+   "tag": "DIV",
+   "cls": "scroll-reveal is-visible animate-fade-up",
+   "style": null,
+   "op": "1",
+   "tr": "matrix(1, 0, 0, 1, 0, 0)",
+   "trans": "all"
+  }
+ ]
+}

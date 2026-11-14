@@ -1,0 +1,123 @@
+[
+  {
+    "tag": "header",
+    "id": "",
+    "cls": "sticky top-0 z-50 bg-white/95 backdrop-blur-sm border-b transition-[border-color,box-shadow] duration-300 border-transpa",
+    "y": 0,
+    "h": 73,
+    "w": 1920,
+    "bg": "oklab(0.999994 0.0000455678 0.0000200868 / 0.95)",
+    "bgImg": "none",
+    "pos": "sticky"
+  },
+  {
+    "tag": "nav",
+    "id": "",
+    "cls": "hidden lg:flex items-center gap-1",
+    "y": 18,
+    "h": 36,
+    "w": 601,
+    "bg": "rgba(0, 0, 0, 0)",
+    "bgImg": "none",
+    "pos": "static"
+  },
+  {
+    "tag": "section",
+    "id": "",
+    "cls": "relative overflow-clip bg-white",
+    "y": 73,
+    "h": 1322,
+    "w": 1920,
+    "bg": "rgb(255, 255, 255)",
+    "bgImg": "none",
+    "pos": "relative"
+  },
+  {
+    "tag": "section",
+    "id": "",
+    "cls": "border-y border-gray-200 bg-gray-50",
+    "y": 1395,
+    "h": 182,
+    "w": 1920,
+    "bg": "rgb(252, 246, 243)",
+    "bgImg": "none",
+    "pos": "static"
+  },
+  {
+    "tag": "section",
+    "id": "",
+    "cls": "relative bg-ink text-white overflow-clip",
+    "y": 1577,
+    "h": 705,
+    "w": 1920,
+    "bg": "rgb(14, 28, 48)",
+    "bgImg": "none",
+    "pos": "relative"
+  },
+  {
+    "tag": "section",
+    "id": "",
+    "cls": "relative overflow-clip bg-white py-20 lg:py-28 ",
+    "y": 2282,
+    "h": 1016,
+    "w": 1920,
+    "bg": "rgb(255, 255, 255)",
+    "bgImg": "none",
+    "pos": "relative"
+  },
+  {
+    "tag": "section",
+    "id": "",
+    "cls": "relative overflow-clip bg-gray-50 py-20 lg:py-28 ",
+    "y": 3298,
+    "h": 1141,
+    "w": 1920,
+    "bg": "rgb(252, 246, 243)",
+    "bgImg": "none",
+    "pos": "relative"
+  },
+  {
+    "tag": "section",
+    "id": "",
+    "cls": "relative bg-ink text-white overflow-clip",
+    "y": 4439,
+    "h": 712,
+    "w": 1920,
+    "bg": "rgb(14, 28, 48)",
+    "bgImg": "none",
+    "pos": "relative"
+  },
+  {
+    "tag": "section",
+    "id": "",
+    "cls": "relative bg-white overflow-clip",
+    "y": 5150,
+    "h": 949,
+    "w": 1920,
+    "bg": "rgb(255, 255, 255)",
+    "bgImg": "none",
+    "pos": "relative"
+  },
+  {
+    "tag": "section",
+    "id": "",
+    "cls": "relative bg-gray-50 overflow-clip",
+    "y": 6099,
+    "h": 684,
+    "w": 1920,
+    "bg": "rgb(252, 246, 243)",
+    "bgImg": "none",
+    "pos": "relative"
+  },
+  {
+    "tag": "footer",
+    "id": "",
+    "cls": "bg-ink text-gray-300",
+    "y": 6783,
+    "h": 1074,
+    "w": 1920,
+    "bg": "rgb(14, 28, 48)",
+    "bgImg": "none",
+    "pos": "static"
+  }
+]

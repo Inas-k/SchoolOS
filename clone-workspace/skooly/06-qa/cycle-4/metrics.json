@@ -1,0 +1,46 @@
+{
+  "cycle": 4,
+  "viewports": {
+    "desktop": {
+      "official": {
+        "total": 20550,
+        "passed": 20550,
+        "failed": 0
+      },
+      "strict": {
+        "total": 20550,
+        "failed": 0
+      },
+      "missing_elements": 0,
+      "extra_elements": 0
+    },
+    "tablet": {
+      "official": {
+        "total": 19800,
+        "passed": 19800,
+        "failed": 0
+      },
+      "strict": {
+        "total": 19800,
+        "failed": 0
+      },
+      "missing_elements": 0,
+      "extra_elements": 0
+    },
+    "mobile": {
+      "official": {
+        "total": 19800,
+        "passed": 19800,
+        "failed": 0
+      },
+      "strict": {
+        "total": 19800,
+        "failed": 0
+      },
+      "missing_elements": 0,
+      "extra_elements": 0
+    }
+  },
+  "build_ok": true,
+  "total_failures": 0
+}

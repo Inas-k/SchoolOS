@@ -1,0 +1,256 @@
+{
+ "chat": "",
+ "chatBtn": {
+  "cls": "inline-flex items-center gap-2 bg-[#1a1a1a] hover:bg-[#333] text-white text-[15px] font-semibold px-5 py-3.5 rounded-full shadow-lg shadow-black/20 transition-colors",
+  "html": "<button type=\"button\" aria-label=\"Questions? Chat with us\" class=\"inline-flex items-center gap-2 bg-[#1a1a1a] hover:bg-[#333] text-white text-[15px] font-semibold px-5 py-3.5 rounded-full shadow-lg shadow-black/20 transition-colors\"><svg/>Questions? Chat with us</button>",
+  "rect": {
+   "x": 1656.0625,
+   "y": 1009.5,
+   "width": 243.9375,
+   "height": 50.5,
+   "top": 1009.5,
+   "right": 1900,
+   "bottom": 1060,
+   "left": 1656.0625
+  }
+ },
+ "dropdown_Features": {
+  "html": "<div class=\"fixed top-18 left-1/2 -translate-x-1/2 pt-2 w-[840px]\"><div class=\"bg-white rounded-2xl overflow-hidden border border-gray-900/10 shadow-[0_2px_4px_rgb(0_0_0/0.04),0_24px_48px_-12px_rgb(0_0_0/0.18)] p-3\"><div class=\"grid grid-cols-2 gap-3\"><div class=\"pe-3 border-e border-gray-100\"><a class=\"group/prod flex items-center justify-between gap-3 rounded-xl p-3 bg-[#22405f]/[0.05] hover:bg-[#22405f]/[0.1] transition-colors\" href=\"/academy/\"><div><span class=\"flex items-center gap-2 text-sm font-bold text-gray-900\"><span class=\"w-2 h-2 rounded-[3px] bg-[#22405f]\" aria-hidden=\"true\"></span>Academy</span><p class=\"text-sm text-gray-600 mt-0.5\">For music schools, dance studios, sports academies &amp; more</p></div><svg/></a><div class=\"mt-2 grid grid-cols-2 gap-x-1\"><a class=\"block rounded-lg px-2.5 py-2 text-sm font-medium text-gray-800 hover:bg-primary-50 hover:text-primary transition-colors\" href=\"/academy/features/ai-assistant/\">Skooly Copilot</a><a class=\"block rounded-lg px-2.5 py-2 text-sm font-medium text-gray-800 hover:bg-primary-50 hover:text-primary transition-colors\" href=\"/academy/features/student-management/\">Student Management</a><a class=\"block rounded-lg px-2.5 py-2 text-sm font-medium text-gray-800 hover:bg-primary-50 hover:text-primary transition-colors\" href=\"/academy/features/class-scheduling/\">Class Scheduling</a><a class=\"block rounded-lg px-2.5 py-2 text-sm font-medium text-gray-800 hover:bg-primary-50 hover:text-primary transition-colors\" href=\"/academy/features/enrollment-booking/\">Enrollment &amp; Booking</a><a class=\"block rounded-lg px-2.5 py-2 text-sm font-medium text-gray-800 hover:bg-primary-50 hover:text-primary transition-colors\" href=\"/academy/features/attendance-tracking/\">Attendance &amp; Make-ups</a><a class=\"block rounded-lg px-2.5 py-2 text-sm font-medium text-gray-800 hover:bg-primary-50 hover:text-primary transition-colors\" href=\"/academy/features/billing-payments/\">Billing &amp; Payments</a><a class=\"block rounded-lg px-2.5 py-2 text-sm font-medium text-gray-800 hover:bg-primary-50 hover:text-primary transition-colors\" href=\"/academy/features/payroll-expenses/\">Staff Payroll &amp; Expenses</a><a class=\"block rounded-lg px-2.5 py-2 text-sm font-medium text-gray-800 hover:bg-primary-50 hover:text-primary transition-colors\" href=\"/academy/features/communications/\">Communications</a><a class=\"block rounded-lg px-2.5 py-2 text-sm font-medium text-gray-800 hover:bg-primary-50 hover:text-primary transition-colors\" href=\"/academy/features/program-catalog/\">Program Catalog</a><a class=\"block rounded-lg px-2.5 py-2 text-sm font-medium text-gray-800 hover:bg-primary-50 hover:text-primary transition-colors\" href=\"/academy/features/student-progress/\">Student Progress &amp; Reports</a><a class=\"block rounded-lg px-2.5 py-2 text-sm font-medium text-gray-800 hover:bg-primary-50 hover:text-primary transition-colors\" href=\"/academy/features/growth-marketing/\">Growth &amp; Leads CRM</a><a class=\"block rounded-lg px-2.5 py-2 text-sm font-medium text-gray-800 hover:bg-primary-50 hover:text-primary transition-colors\" href=\"/academy/features/multi-location/\">Multi-Location</a></div><div class=\"mt-2 px-2.5 pt-2.5 border-t border-gray-100\"><span class=\"block text-[10px] font-bold uppercase tracking-[0.15em] text-gray-400 mb-1.5\">Who it's for</span><div class=\"flex flex-wrap gap-x-3 gap-y-1\"><a class=\"text-sm font-medium text-gray-600 hover:text-primary transition-colors\" href=\"/academy/for/tutoring-centres/\">Tutoring Centres</a><a class=\"text-sm font-medium text-gray-600 hover:text-primary transition-colors\" href=\"/academy/for/enrichment-centres/\">Enrichment</a><a class=\"text-sm font-medium text-gray-600 hover:text-primary transition-colors\" href=\"/academy/for/music-schools/\">Music Schools</a><a class=\"text-sm font-medium text-gray-600 hover:text-primary transition-colors\" href=\"/academy/for/dance-studios/\">Dance Studios</a><a class=\"text-sm font-medium text-gray-600 hover:text-primary transition-colors\" href=\"/academy/for/sports-academies/\">Sports</a><a class=\"text-sm font-medium text-gray-600 hover:text-primary transition-colors\" href=\"/academy/for/language-centres/\">Languages</a><a class=\"text-sm font-medium text-gray-600 hover:text-primary transition-colors\" href=\"/academy/for/martial-arts/\">Martial Arts</a><a class=\"text-sm font-medium text-gray-600 hover:text-primary transition-colors\" href=\"/academy/for/religious-schools/\">Religious Schools</a><a class=\"text-sm font-medium text-primary hover:text-primary-dark transition-colors\" href=\"/academy/#who-its-for\">All 11 academy types →</a></div></div><div class=\"mt-1 p-2.5 border-t border-gray-100\"><a class=\"text-xs font-semibold uppercase tracking-wider text-primary hover:text-primary-dark\" href=\"/academy/features/\">All Academy Features →</a></div></div><div><a class=\"group/prod flex items-center justify-between gap-3 rounded-xl p-3 bg-[#8e2155]/[0.05] hover:bg-[#8e2155]/[0.1] transition-colors\" href=\"/preschool/\"><div><span class=\"flex items-center gap-2 text-sm font-bold text-gray-900\"><span class=\"w-2 h-2 rounded-[3px] bg-[#8e2155]\" aria-hidden=\"true\"></span>Preschool</span><p class=\"text-sm text-gray-600 mt-0.5\">For preschools, daycares &amp; nurseries</p></div><svg/></a><div class=\"mt-2 grid grid-cols-2 gap-x-1\"><a class=\"block rounded-lg px-2.5 py-2 text-sm font-medium text-gray-800 hover:bg-primary-50 hover:text-primary transition-colors\" href=\"/preschool/features/children-management/\">Children Management</a><a class=\"block rounded-lg px-2.5 py-2 text-sm font-medium text-gray-800 hover:bg-primary-50 hover:text-primary transition-colors\" href=\"/preschool/features/classroom-management/\">Classroom Management</a><a class=\"block rounded-lg px-2.5 py-2 text-sm font-medium text-gray-800 hover:bg-primary-50 hover:text-primary transition-colors\" href=\"/preschool/features/admissions/\">Admissions</a><a class=\"block rounded-lg px-2.5 py-2 text-sm font-medium text-gray-800 hover:bg-primary-50 hover:text-primary transition-colors\" href=\"/preschool/features/programs-pricing/\">Programs &amp; Pricing</a><a class=\"block rounded-lg px-2.5 py-2 text-sm font-medium text-gray-800 hover:bg-primary-50 hover:text-primary transition-colors\" href=\"/preschool/features/staff-management/\">Staff Management</a><a class=\"block rounded-lg px-2.5 py-2 text-sm font-medium text-gray-800 hover:bg-primary-50 hover:text-primary transition-colors\" href=\"/preschool/features/daily-attendance/\">Daily Attendance</a><a class=\"block rounded-lg px-2.5 py-2 text-sm font-medium text-gray-800 hover:bg-primary-50 hover:text-primary transition-colors\" href=\"/preschool/features/daily-reports/\">Daily Reports</a><a class=\"block rounded-lg px-2.5 py-2 text-sm font-medium text-gray-800 hover:bg-primary-50 hover:text-primary transition-colors\" href=\"/preschool/features/development-tracking/\">Development Tracking</a><a class=\"block rounded-lg px-2.5 py-2 text-sm font-medium text-gray-800 hover:bg-primary-50 hover:text-primary transition-colors\" href=\"/preschool/features/preschool-communications/\">Communications</a><a class=\"block rounded-lg px-2.5 py-2 text-sm font-medium text-gray-800 hover:bg-primary-50 hover:text-primary transition-colors\" href=\"/preschool/features/finance-management/\">Finance Management</a><a class=\"block rounded-lg px-2.5 py-2 text-sm font-medium text-gray-800 hover:bg-primary-50 hover:text-primary transition-colors\" href=\"/preschool/features/payroll-expenses/\">Staff Payroll &amp; Expenses</a><a class=\"block rounded-lg px-2.5 py-2 text-sm font-medium text-gray-800 hover:bg-primary-50 hover:text-primary transition-colors\" href=\"/preschool/features/multi-location/\">Multi-Location</a></div><div class=\"mt-2 px-2.5 pt-2.5 border-t border-gray-100\"><span class=\"block text-[10px] font-bold uppercase tracking-[0.15em] text-gray-400 mb-1.5\">Who it's for</span><div class=\"flex flex-wrap gap-x-3 gap-y-1\"><a class=\"text-sm font-medium text-gray-600 hover:text-primary transition-colors\" href=\"/preschool/for/preschools/\">Preschools</a><a class=\"text-sm font-medium text-gray-600 hover:text-primary transition-colors\" href=\"/preschool/for/daycare/\">Daycare</a><a class=\"text-sm font-medium text-gray-600 hover:text-primary transition-colors\" href=\"/preschool/for/nurseries/\">Nurseries</a></div></div><div class=\"mt-1 p-2.5 border-t border-gray-100\"><a class=\"text-xs font-semibold uppercase tracking-wider text-primary hover:text-primary-dark\" href=\"/preschool/features/\">All Preschool Features →</a></div></div></div></div></div>",
+  "cls": "fixed top-18 left-1/2 -translate-x-1/2 pt-2 w-[840px]",
+  "rect": {
+   "x": 540,
+   "y": 72,
+   "width": 840,
+   "height": 521,
+   "top": 72,
+   "right": 1380,
+   "bottom": 593,
+   "left": 540
+  },
+  "style": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "radius": "0px",
+   "shadow": "none",
+   "border": "0px solid rgb(23, 23, 23)",
+   "anim": "none",
+   "opacity": "1",
+   "transform": "none",
+   "transition": "all"
+  },
+  "chev": "w-4 h-4 transition-transform rotate-180"
+ },
+ "dropdown_Pricing": {
+  "html": "<div class=\"absolute top-full start-1/2 -translate-x-1/2 pt-2 w-[220px]\"><div class=\"bg-white rounded-2xl overflow-hidden border border-gray-900/10 shadow-[0_2px_4px_rgb(0_0_0/0.04),0_24px_48px_-12px_rgb(0_0_0/0.18)] p-1\"><a class=\"group block p-3 hover:bg-primary-50 transition-colors\" href=\"/academy/pricing/\"><span class=\"block text-sm font-semibold text-gray-900 group-hover:text-primary\">Academy</span><span class=\"block text-sm text-gray-600 mt-0.5\">Simple, transparent plans</span></a><a class=\"group block p-3 hover:bg-primary-50 transition-colors\" href=\"/preschool/pricing/\"><span class=\"block text-sm font-semibold text-gray-900 group-hover:text-primary\">Preschool</span><span class=\"block text-sm text-gray-600 mt-0.5\">Simple, transparent plans</span></a></div></div>",
+  "cls": "absolute top-full start-1/2 -translate-x-1/2 pt-2 w-[220px]",
+  "rect": {
+   "x": 799.203125,
+   "y": 54,
+   "width": 220,
+   "height": 150,
+   "top": 54,
+   "right": 1019.203125,
+   "bottom": 204,
+   "left": 799.203125
+  },
+  "style": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "radius": "0px",
+   "shadow": "none",
+   "border": "0px solid rgb(23, 23, 23)",
+   "anim": "none",
+   "opacity": "1",
+   "transform": "none",
+   "transition": "all"
+  },
+  "chev": "w-4 h-4 transition-transform rotate-180"
+ },
+ "headerScrolled": {
+  "cls": "sticky top-0 z-50 bg-white/95 backdrop-blur-sm border-b transition-[border-color,box-shadow] duration-300 border-gray-900/10 shadow-[0_1px_2px_rgb(0_0_0/0.03),0_8px_24px_-12px_rgb(0_0_0/0.12)]",
+  "borderColor": "lab(8.34576 0.602856 -2.11588 / 0.1)",
+  "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.03) 0px 1px 2px 0px, rgba(0, 0, 0, 0.12) 0px 8px 24px -12px",
+  "bg": "oklab(0.999994 0.0000455678 0.0000200868 / 0.95)"
+ },
+ "heroSwitch": {
+  "before": [
+   {
+    "l": "Academy",
+    "cls": "absolute top-10 inset-x-0 block w-full text-start p-0 transition-all duration-500 ease-[cubic-bezier(0.22,1,0.36,1)] z-20 translate-x-0 translate-y-0 cursor-default",
+    "pressed": "true"
+   },
+   {
+    "l": "Preschool",
+    "cls": "absolute top-10 inset-x-0 block w-full text-start p-0 transition-all duration-500 ease-[cubic-bezier(0.22,1,0.36,1)] z-10 -translate-y-10 translate-x-5 sm:translate-x-7 scale-[0.985] cursor-pointer",
+    "pressed": "false"
+   }
+  ],
+  "after": [
+   {
+    "l": "Academy",
+    "cls": "absolute top-10 inset-x-0 block w-full text-start p-0 transition-all duration-500 ease-[cubic-bezier(0.22,1,0.36,1)] z-20 translate-x-0 translate-y-0 cursor-default",
+    "pressed": "true"
+   },
+   {
+    "l": "Preschool",
+    "cls": "absolute top-10 inset-x-0 block w-full text-start p-0 transition-all duration-500 ease-[cubic-bezier(0.22,1,0.36,1)] z-10 -translate-y-10 translate-x-5 sm:translate-x-7 scale-[0.985] cursor-pointer",
+    "pressed": "false"
+   }
+  ]
+ },
+ "heroAutoAfter7s": [
+  "true",
+  "false"
+ ],
+ "hover": {
+  "primaryBtn": {
+   "rest": {
+    "color": "rgb(255, 255, 255)",
+    "bg": "rgb(208, 24, 88)",
+    "border": "rgb(255, 255, 255)",
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.22) 0px 1px 0px 0px inset, rgba(0, 0, 0, 0.1) 0px 1px 2px 0px, rgba(208, 24, 88, 0.5) 0px 4px 14px -4px",
+    "transform": "none",
+    "transition": "0.2s cubic-bezier(0.22, 1, 0.36, 1)"
+   },
+   "hover": {
+    "color": "rgb(255, 255, 255)",
+    "bg": "rgb(179, 16, 73)",
+    "border": "rgb(255, 255, 255)",
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.22) 0px 1px 0px 0px inset, rgba(0, 0, 0, 0.1) 0px 2px 4px 0px, rgba(208, 24, 88, 0.55) 0px 8px 20px -4px",
+    "transform": "none",
+    "transition": "0.2s cubic-bezier(0.22, 1, 0.36, 1)"
+   }
+  },
+  "secondaryBtn": {
+   "rest": {
+    "color": "rgb(24, 24, 27)",
+    "bg": "rgb(255, 255, 255)",
+    "border": "rgb(212, 212, 216)",
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px",
+    "transform": "none",
+    "transition": "0.2s cubic-bezier(0.22, 1, 0.36, 1)"
+   },
+   "hover": {
+    "color": "rgb(208, 24, 88)",
+    "bg": "rgb(255, 255, 255)",
+    "border": "rgb(208, 24, 88)",
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.08) 0px 2px 8px 0px",
+    "transform": "none",
+    "transition": "0.2s cubic-bezier(0.22, 1, 0.36, 1)"
+   }
+  },
+  "navAcademy": {
+   "rest": {
+    "color": "rgb(24, 24, 27)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "border": "rgb(24, 24, 27)",
+    "shadow": "none",
+    "transform": "none",
+    "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)"
+   },
+   "hover": {
+    "color": "rgb(0, 114, 229)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "border": "rgb(0, 114, 229)",
+    "shadow": "none",
+    "transform": "none",
+    "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)"
+   }
+  },
+  "headerCta": {
+   "rest": {
+    "color": "rgb(255, 255, 255)",
+    "bg": "rgb(208, 24, 88)",
+    "border": "rgb(255, 255, 255)",
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.556019 0.208994 0.0344019 / 0.25) 0px 4px 6px -1px, oklab(0.556019 0.208994 0.0344019 / 0.25) 0px 2px 4px -2px",
+    "transform": "none",
+    "transition": "0.15s cubic-bezier(0.4, 0, 0.2, 1)"
+   },
+   "hover": {
+    "color": "rgb(255, 255, 255)",
+    "bg": "rgb(179, 16, 73)",
+    "border": "rgb(255, 255, 255)",
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.556019 0.208994 0.0344019 / 0.25) 0px 4px 6px -1px, oklab(0.556019 0.208994 0.0344019 / 0.25) 0px 2px 4px -2px",
+    "transform": "none",
+    "transition": "0.15s cubic-bezier(0.4, 0, 0.2, 1)"
+   }
+  },
+  "langPill": {
+   "rest": {
+    "color": "rgb(23, 23, 23)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "border": "rgba(0, 0, 0, 0)",
+    "shadow": "none",
+    "transform": "none",
+    "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)"
+   },
+   "hover": {
+    "color": "rgb(23, 23, 23)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "border": "rgb(228, 228, 231)",
+    "shadow": "none",
+    "transform": "none",
+    "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)"
+   }
+  }
+ },
+ "statsAtLoad": [
+  "0+",
+  "0%",
+  "0",
+  "$0"
+ ],
+ "statCountUp": [
+  "2+ | 0% | 0 | $0",
+  "4+ | 0% | 1 | $0",
+  "5+ | 0% | 1 | $0",
+  "7+ | 0% | 1 | $0",
+  "8+ | 0% | 2 | $0",
+  "8+ | 0% | 2 | $0",
+  "9+ | 0% | 2 | $0",
+  "9+ | 0% | 2 | $0",
+  "10+ | 0% | 2 | $0",
+  "10+ | 0% | 2 | $0",
+  "10+ | 0% | 2 | $0",
+  "10+ | 0% | 2 | $0"
+ ],
+ "revealTiming": [
+  {
+   "scrollY": 1360,
+   "rectTop": 1048,
+   "vh": 1080,
+   "h": 170
+  }
+ ],
+ "langOptions": [
+  [
+   "en",
+   "English"
+  ],
+  [
+   "ms",
+   "Bahasa Malaysia"
+  ],
+  [
+   "ar",
+   "العربية"
+  ],
+  [
+   "es",
+   "Español"
+  ],
+  [
+   "pt",
+   "Português"
+  ],
+  [
+   "fr",
+   "Français"
+  ],
+  [
+   "id",
+   "Bahasa Indonesia"
+  ]
+ ],
+ "mobileMenu": {
+  "html": "<header class=\"sticky top-0 z-50 bg-white/95 backdrop-blur-sm border-b transition-[border-color,box-shadow] duration-300 border-transparent\"><div class=\"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8\"><div class=\"flex items-center justify-between h-16 lg:h-18\"><a class=\"flex-shrink-0\" href=\"/\"><img alt=\"Skooly\" width=\"109\" height=\"47\" decoding=\"async\" data-nimg=\"1\" class=\"h-7 w-auto lg:h-8\" style=\"color:transparent\" src=\"/skooly-wordmark.png\"></a><nav class=\"hidden lg:flex items-center gap-1\"><a class=\"px-2.5 xl:px-4 py-2 font-sans whitespace-nowrap text-sm font-semibold transition-colors text-gray-900 hover:text-primary\" href=\"/academy/\">Academy</a><a class=\"px-2.5 xl:px-4 py-2 font-sans whitespace-nowrap text-sm font-semibold transition-colors text-gray-900 hover:text-primary\" href=\"/preschool/\">Preschool</a><a class=\"px-2.5 xl:px-4 py-2 font-sans whitespace-nowrap text-sm font-semibold transition-colors text-gray-900 hover:text-primary\" href=\"/therapy-early-intervention/\">Therapy</a><div class=\"relative\"><button class=\"flex items-center gap-1 px-2.5 xl:px-4 py-2 font-sans whitespace-nowrap text-sm font-semibold text-gray-900 hover:text-primary transition-colors\">Features<svg/></button></div><div class=\"relative\"><button class=\"flex items-center gap-1 px-2.5 xl:px-4 py-2 font-sans whitespace-nowrap text-sm font-semibold text-gray-900 hover:text-primary transition-colors\">Pricing<svg/></button></div><a class=\"hidden xl:block px-2.5 xl:px-4 py-2 font-sans whitespace-nowrap text-sm font-semibold text-gray-900 hover:text-primary transition-colors\" href=\"/support/\">Support</a></nav><div class=\"hidden lg:flex items-center gap-1 xl:gap-3\"><span class=\"relative inline-flex items-center gap-1.5 ps-3 pe-2.5 py-2 rounded-full border border-transparent hover:border-gray-200 focus-within:border-gray-200 transition-colors group\"><svg/><span class=\"font-sans text-sm font-semibold text-gray-900 group-hover:text-primary transition-colors\">English</span><svg/><select class=\"absolute inset-0 w-full h-full opacity-0 cursor-pointer\" aria-label=\"Language\"><option value=\"en\" selected=\"\">English</option><option value=\"ms\">Bahasa Malaysia</option><option value=\"ar\">العربية</option><option value=\"es\">Español</option><option value=\"pt\">Português</option><option value=\"fr\">Français</option><option value=\"id\">Bahasa Indonesia</option></select></span><a class=\"px-2.5 xl:px-4 py-2 font-sans whitespace-nowrap text-sm font-semibold text-gray-900 hover:text-primary transition-colors\" href=\"/demo/\">Schedule Demo</a><a href=\"https://one.getskooly.com/login\" class=\"px-2.5 xl:px-4 py-2 font-sans whitespace-nowrap text-sm font-semibold text-gray-900 hover:text-primary transition-colors\">Login</a><a href=\"https://one.getskooly.com/admin/register\" class=\"px-4 xl:px-5 py-2.5 text-sm font-semibold whitespace-nowrap rounded-xl bg-cta text-white shadow-md shadow-cta/25 hover:bg-cta-dark transition-all\">Start Free Pilot</a></div><button class=\"lg:hidden p-2 text-gray-700\" aria-label=\"Toggle menu\"><svg/></button></div></div><div class=\"lg:hidden bg-white border-t border-gray-200\"><div class=\"px-4 py-4 space-y-1\"><a class=\"block px-3 py-2.5 text-sm font-semibold text-gray-900\" href=\"/academy/\">Academy</a><div class=\"ps-4 space-y-0.5\"><a class=\"block px-3 py-2 text-sm text-gray-700 hover:text-primary\" href=\"/academy/features/ai-assistant/\">Skooly Copilot</a><a class=\"block px-3 py-2 text-sm text-gray-700 hover:text-primary\" href=\"/academy/features/student-management/\">Student Management</a><a class=\"block px-3 py-2 text-sm text-gray-700 hover:text-primary\" href=\"/academy/features/class-scheduling/\">Class Scheduling</a><a class=\"block px-3 py-2 text-sm text-gray-700 hover:text-primary\" href=\"/academy/features/enrollment-booking/\">Enrollment &amp; Booking</a><a class=\"block px-3 py-2 text-sm text-gray-700 hover:text-primary\" href=\"/academy/features/attendance-tracking/\">Attendance &amp; Make-ups</a><a class=\"block px-3 py-2 text-sm font-medium text-primary\" href=\"/academy/features/\">All Academy Features →</a></div><a class=\"block px-3 py-2.5 text-sm font-semibold text-gray-900\" href=\"/preschool/\">Preschool</a><div class=\"ps-4 space-y-0.5\"><a class=\"block px-3 py-2 text-sm text-gray-700 hover:text-primary\" href=\"/preschool/features/children-management/\">Children Management</a><a class=\"block px-3 py-2 text-sm text-gray-700 hover:text-primary\" href=\"/preschool/features/classroom-management/\">Classroom Management</a><a class=\"block px-3 py-2 text-sm text-gray-700 hover:text-primary\" href=\"/preschool/features/admissions/\">Admissions</a><a class=\"block px-3 py-2 text-sm text-gray-700 hover:text-primary\" href=\"/preschool/features/programs-pricing/\">Programs &amp; Pricing</a><a class=\"block px-3 py-2 text-sm font-medium text-primary\" href=\"/preschool/features/\">All Preschool Features →</a></div><a class=\"block px-3 py-2.5 text-sm font-semibold text-gray-900\" href=\"/therapy-early-intervention/\">Therapy</a><div class=\"px-3 py-2.5 text-sm font-semibold text-gray-900\">Pricing</div><div class=\"ps-4 space-y-0.5\"><a class=\"block px-3 py-2 text-sm text-gray-700 hover:text-primary\" href=\"/academy/pricing/\">Academy</a><a class=\"block px-3 py-2 text-sm text-gray-700 hover:text-primary\" href=\"/preschool/pricing/\">Preschool</a></div><a class=\"block px-3 py-2.5 text-sm font-semibold text-gray-900\" href=\"/support/\">Support</a><a class=\"block px-3 py-2.5 text-sm font-semibold text-gray-900\" href=\"/demo/\">Schedule Demo</a><div class=\"pt-3 border-t border-gray-100 space-y-2\"><span class=\"relative inline-flex items-center gap-1.5 ps-3 pe-2.5 py-2 rounded-full border border-transparent hover:border-gray-200 focus-within:border-gray-200 transition-colors group\"><svg/><span class=\"font-sans text-sm font-semibold text-gray-900 group-hover:text-primary transition-colors\">English</span><svg/><select class=\"absolute inset-0 w-full h-full opacity-0 cursor-pointer\" aria-label=\"Language\"><option value=\"en\">English</option><option value=\"ms\">Bahasa Malaysia</option><option value=\"ar\">العربية</option><option value=\"es\">Español</option><option value=\"pt\">Português</option><option value=\"fr\">Français</option><option value=\"id\">Bahasa Indonesia</option></select></span><a href=\"https://one.getskooly.com/login\" class=\"block px-3 py-2.5 text-sm font-medium text-gray-700 text-center border border-gray-200\">Login</a><a href=\"https://one.getskooly.com/admin/register\" class=\"block px-3 py-2.5 text-sm font-semibold rounded-xl text-white bg-cta text-center\">Start Free Pilot</a></div></div></div></header>"
+ }
+}

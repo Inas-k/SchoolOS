@@ -1,0 +1,33 @@
+{
+  "style_assertions": {
+    "total": 20550,
+    "passed": 20546,
+    "failed": 4,
+    "failures": [
+      {
+        "selector": "body > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(3)",
+        "prop": "marginRight",
+        "expected": "0px",
+        "actual": "320px"
+      },
+      {
+        "selector": "body > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(3)",
+        "prop": "marginLeft",
+        "expected": "0px",
+        "actual": "320px"
+      },
+      {
+        "selector": "body > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2)",
+        "prop": "marginRight",
+        "expected": "0px",
+        "actual": "160px"
+      },
+      {
+        "selector": "body > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2)",
+        "prop": "marginLeft",
+        "expected": "0px",
+        "actual": "160px"
+      }
+    ]
+  }
+}

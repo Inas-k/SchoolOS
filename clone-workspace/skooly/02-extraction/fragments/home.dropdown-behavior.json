@@ -1,0 +1,280 @@
+{
+ "head": {
+  "title": "Skooly — Management Software for Academies & Preschools",
+  "lang": "en",
+  "metas": [
+   {
+    "n": "utf-8",
+    "c": null
+   },
+   {
+    "n": "viewport",
+    "c": "width=device-width, initial-scale=1"
+   },
+   {
+    "n": "next-size-adjust",
+    "c": ""
+   },
+   {
+    "n": "description",
+    "c": "All-in-one management software for academies and preschools. Skooly Academy serves music schools, dance studios, sports academies, and more. Skooly Preschool serves preschools, daycares, and nurseries."
+   },
+   {
+    "n": "keywords",
+    "c": "academy management software,preschool management software,music school software,dance studio management,sports academy software,daycare management software,nursery management software,student management,class scheduling software,enrollment management,billing software,attendance tracking,daily reports,child development tracking,parent communication"
+   },
+   {
+    "n": "robots",
+    "c": "index, follow"
+   },
+   {
+    "n": "googlebot",
+    "c": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+   },
+   {
+    "n": "og:title",
+    "c": "Skooly — Management Software for Academies & Preschools"
+   },
+   {
+    "n": "og:description",
+    "c": "All-in-one management software for academies and preschools. Manage students, scheduling, billing, attendance, daily reports, and more from one platform."
+   },
+   {
+    "n": "og:url",
+    "c": "https://getskooly.com/"
+   },
+   {
+    "n": "og:site_name",
+    "c": "Skooly"
+   },
+   {
+    "n": "og:locale",
+    "c": "en_US"
+   },
+   {
+    "n": "og:image",
+    "c": "https://getskooly.com/og-image.png"
+   },
+   {
+    "n": "og:image:width",
+    "c": "1200"
+   },
+   {
+    "n": "og:image:height",
+    "c": "630"
+   },
+   {
+    "n": "og:image:alt",
+    "c": "Skooly — Academy & Preschool Management with an AI Copilot"
+   },
+   {
+    "n": "og:type",
+    "c": "website"
+   },
+   {
+    "n": "twitter:card",
+    "c": "summary_large_image"
+   },
+   {
+    "n": "twitter:title",
+    "c": "Skooly — Management Software for Academies & Preschools"
+   },
+   {
+    "n": "twitter:description",
+    "c": "All-in-one management software for academies and preschools. Manage students, scheduling, billing, attendance, daily reports, and more from one platform."
+   },
+   {
+    "n": "twitter:image",
+    "c": "https://getskooly.com/og-image.png"
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://getskooly.com/",
+    "hreflang": "",
+    "sizes": null,
+    "type": ""
+   },
+   {
+    "rel": "alternate",
+    "href": "https://getskooly.com/",
+    "hreflang": "en",
+    "sizes": null,
+    "type": ""
+   },
+   {
+    "rel": "alternate",
+    "href": "https://getskooly.com/ms/",
+    "hreflang": "ms",
+    "sizes": null,
+    "type": ""
+   },
+   {
+    "rel": "alternate",
+    "href": "https://getskooly.com/ar/",
+    "hreflang": "ar",
+    "sizes": null,
+    "type": ""
+   },
+   {
+    "rel": "alternate",
+    "href": "https://getskooly.com/es/",
+    "hreflang": "es",
+    "sizes": null,
+    "type": ""
+   },
+   {
+    "rel": "alternate",
+    "href": "https://getskooly.com/pt/",
+    "hreflang": "pt",
+    "sizes": null,
+    "type": ""
+   },
+   {
+    "rel": "alternate",
+    "href": "https://getskooly.com/fr/",
+    "hreflang": "fr",
+    "sizes": null,
+    "type": ""
+   },
+   {
+    "rel": "alternate",
+    "href": "https://getskooly.com/id/",
+    "hreflang": "id",
+    "sizes": null,
+    "type": ""
+   },
+   {
+    "rel": "alternate",
+    "href": "https://getskooly.com/",
+    "hreflang": "x-default",
+    "sizes": null,
+    "type": ""
+   },
+   {
+    "rel": "icon",
+    "href": "/favicon.ico?favicon.1xejw2g-iqp8h.ico",
+    "hreflang": "",
+    "sizes": "48x48",
+    "type": "image/x-icon"
+   },
+   {
+    "rel": "icon",
+    "href": "/favicon.ico",
+    "hreflang": "",
+    "sizes": null,
+    "type": ""
+   },
+   {
+    "rel": "apple-touch-icon",
+    "href": "/apple-icon.png",
+    "hreflang": "",
+    "sizes": null,
+    "type": ""
+   }
+  ],
+  "jsonld": [
+   "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Skooly\",\"legalName\":\"Skooly Pte Ltd\",\"url\":\"https://getskooly.com\",\"logo\":\"https://getskooly.com/skooly-wordmark.png\",\"description\":\"All-in-one management software for academies and preschools. Skooly Academy serves music schools, dance studios, sports academies, and more. Skooly Preschool serves preschools, daycares, and nurseries.\",\"email\":\"support@getskooly.com\",\"inLanguage\":\"en\",\"sameAs\":[\"https://business.facebook.com/skoolyhq/\",\"https://twitter.com/skoolyhq\",\"https://www.youtube.com/channel/UC052L8QLfRcfUJRSDcCwdMw\"]}",
+   "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Skooly Academy\",\"applicationCategory\":\"BusinessApplication\",\"operatingSystem\":\"Web, iOS, Android\",\"description\":\"All-in-one academy management software. Manage students, scheduling, billing, attendance, and communications for music schools, dance studios, sports academies, enrichment programs, and vocational centres.\",\"url\":\"https://getskooly.com/academy\",\"inLanguage\":\"en\",\"offers\":{\"@type\":\"AggregateOffer\",\"lowPrice\":\"149\",\"highPrice\":\"399\",\"priceCurrency\":\"SGD\",\"offerCount\":3},\"featureList\":[\"Student Management\",\"Class Scheduling\",\"Enrollment & Booking\",\"Attendance Tracking\",\"Billing & Payments\",\"Communications\",\"Program Catalog\",\"Multi-Location Support\",\"Growth & Marketing\",\"Learning Management\"]}"
+  ],
+  "htmlClass": "plus_jakarta_sans_b8099fa0-module__7R4-Fa__variable figtree_f42bb5f8-module__i73npa__variable",
+  "bodyClass": "antialiased "
+ },
+ "feat_closed": {
+  "btnCls": "flex items-center gap-1 px-2.5 xl:px-4 py-2 font-sans whitespace-nowrap text-sm font-semibold text-gray-900 hover:text-primary transition-colors",
+  "chev": "w-4 h-4 transition-transform ",
+  "panel": false
+ },
+ "feat_afterHover": {
+  "btnCls": "flex items-center gap-1 px-2.5 xl:px-4 py-2 font-sans whitespace-nowrap text-sm font-semibold text-gray-900 hover:text-primary transition-colors",
+  "chev": "w-4 h-4 transition-transform rotate-180",
+  "panel": true
+ },
+ "feat_afterHoverAway": {
+  "btnCls": "flex items-center gap-1 px-2.5 xl:px-4 py-2 font-sans whitespace-nowrap text-sm font-semibold text-gray-900 hover:text-primary transition-colors",
+  "chev": "w-4 h-4 transition-transform ",
+  "panel": false
+ },
+ "feat_afterClick": {
+  "btnCls": "flex items-center gap-1 px-2.5 xl:px-4 py-2 font-sans whitespace-nowrap text-sm font-semibold text-gray-900 hover:text-primary transition-colors",
+  "chev": "w-4 h-4 transition-transform rotate-180",
+  "panel": true
+ },
+ "feat_openSamples": [
+  {
+   "op": "1",
+   "tr": "none",
+   "pop": "1",
+   "ptr": "none",
+   "anim": "none none"
+  },
+  {
+   "op": "1",
+   "tr": "none",
+   "pop": "1",
+   "ptr": "none",
+   "anim": "none none"
+  },
+  {
+   "op": "1",
+   "tr": "none",
+   "pop": "1",
+   "ptr": "none",
+   "anim": "none none"
+  },
+  {
+   "op": "1",
+   "tr": "none",
+   "pop": "1",
+   "ptr": "none",
+   "anim": "none none"
+  },
+  {
+   "op": "1",
+   "tr": "none",
+   "pop": "1",
+   "ptr": "none",
+   "anim": "none none"
+  },
+  {
+   "op": "1",
+   "tr": "none",
+   "pop": "1",
+   "ptr": "none",
+   "anim": "none none"
+  }
+ ],
+ "afterPricingClick": [
+  {
+   "t": "Features",
+   "cls": "flex items-center gap-1 px-2.5 xl:px-4 py-2 font-sans whitespace-nowrap text-sm font-semibold text-gray-900 hover:text-primary transition-colors",
+   "chev": "w-4 h-4 transition-transform ",
+   "panel": false
+  },
+  {
+   "t": "Pricing",
+   "cls": "flex items-center gap-1 px-2.5 xl:px-4 py-2 font-sans whitespace-nowrap text-sm font-semibold text-gray-900 hover:text-primary transition-colors",
+   "chev": "w-4 h-4 transition-transform rotate-180",
+   "panel": true
+  }
+ ],
+ "afterOutside": [
+  false,
+  false
+ ],
+ "afterEscape": [
+  true,
+  false
+ ],
+ "mobileToggleClosed": "<svg class=\"w-6 h-6\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" stroke-width=\"2\"><path stroke-linecap=\"round\" d=\"M4 6h16M4 12h16M4 18h16\"></path></svg>",
+ "mobileToggleOpen": "<svg class=\"w-6 h-6\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" stroke-width=\"2\"><path stroke-linecap=\"round\" d=\"M6 18L18 6M6 6l12 12\"></path></svg>",
+ "mobileBodyOverflow": "clip visible",
+ "mobilePanelAnim": {
+  "cls": "lg:hidden bg-white border-t border-gray-200",
+  "anim": "none",
+  "dur": "0s",
+  "maxH": "none",
+  "pos": "static"
+ }
+}

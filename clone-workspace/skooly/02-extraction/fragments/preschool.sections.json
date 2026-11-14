@@ -1,0 +1,101 @@
+[
+  {
+    "tag": "header",
+    "id": "",
+    "cls": "sticky top-0 z-50 bg-white/95 backdrop-blur-sm border-b transition-[border-color,box-shadow] duration-300 border-transpa",
+    "y": 0,
+    "h": 73,
+    "w": 1920,
+    "bg": "oklab(0.999994 0.0000455678 0.0000200868 / 0.95)",
+    "bgImg": "none",
+    "pos": "sticky"
+  },
+  {
+    "tag": "nav",
+    "id": "",
+    "cls": "hidden lg:flex items-center gap-1",
+    "y": 18,
+    "h": 36,
+    "w": 581,
+    "bg": "rgba(0, 0, 0, 0)",
+    "bgImg": "none",
+    "pos": "static"
+  },
+  {
+    "tag": "section",
+    "id": "",
+    "cls": "relative overflow-clip bg-white",
+    "y": 73,
+    "h": 772,
+    "w": 1920,
+    "bg": "rgb(255, 255, 255)",
+    "bgImg": "none",
+    "pos": "relative"
+  },
+  {
+    "tag": "section",
+    "id": "",
+    "cls": "border-y border-gray-200 bg-gray-50",
+    "y": 845,
+    "h": 182,
+    "w": 1920,
+    "bg": "rgb(252, 246, 243)",
+    "bgImg": "none",
+    "pos": "static"
+  },
+  {
+    "tag": "section",
+    "id": "who-its-for",
+    "cls": "relative overflow-clip bg-white py-20 lg:py-28 ",
+    "y": 1027,
+    "h": 608,
+    "w": 1920,
+    "bg": "rgb(255, 255, 255)",
+    "bgImg": "none",
+    "pos": "relative"
+  },
+  {
+    "tag": "section",
+    "id": "",
+    "cls": "relative overflow-clip bg-gray-50 py-20 lg:py-28 ",
+    "y": 1635,
+    "h": 2600,
+    "w": 1920,
+    "bg": "rgb(252, 246, 243)",
+    "bgImg": "none",
+    "pos": "relative"
+  },
+  {
+    "tag": "section",
+    "id": "",
+    "cls": "relative bg-white overflow-clip",
+    "y": 4235,
+    "h": 949,
+    "w": 1920,
+    "bg": "rgb(255, 255, 255)",
+    "bgImg": "none",
+    "pos": "relative"
+  },
+  {
+    "tag": "section",
+    "id": "",
+    "cls": "relative bg-gray-50 overflow-clip",
+    "y": 5184,
+    "h": 684,
+    "w": 1920,
+    "bg": "rgb(252, 246, 243)",
+    "bgImg": "none",
+    "pos": "relative"
+  },
+  {
+    "tag": "footer",
+    "id": "",
+    "cls": "bg-ink text-gray-300",
+    "y": 5868,
+    "h": 1074,
+    "w": 1920,
+    "bg": "rgb(14, 28, 48)",
+    "bgImg": "none",
+    "pos": "static"
+  }
+]
